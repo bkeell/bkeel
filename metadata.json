@@ -1,0 +1,8 @@
+{
+  "name": "Bkeel Medical Planet",
+  "description": "Comprehensive medical and healthcare platform for Bkeel Medical Planet, featuring clinic services, doctor appointments, patient health records, and laboratory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
